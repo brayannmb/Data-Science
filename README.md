@@ -1,2 +1,2 @@
 # Data-Science
- Repositório para projetos.
+ Repositório para projetos Data Science.
