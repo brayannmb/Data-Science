@@ -7,4 +7,5 @@
 
 Veja os projetos do meu portfólio abaixo:
 
-* Análisando Dados de uma Empresa: https://bit.ly/3asqt4O
+* Analisando Dados de uma Empresa: https://bit.ly/3asqt4O
+* Analisando os Dados do Airbnb de Londres: https://bit.ly/2NYJKlI
