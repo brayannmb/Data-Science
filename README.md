@@ -2,7 +2,8 @@
 
 # Brayan Monserrah Bento
  Seja muito bem vindo(a)!
- Este repositório é focado para compartilhar meus projetos em Data Science, meu princípal portifólio, onde apresento os projetos desenvolvidos no Google Colab e os artigos dos mesmos na minha conta pessoal do Medium.
+
+Este repositório é focado para compartilhar meus projetos em Data Science, meu princípal portifólio, onde apresento os projetos desenvolvidos no Google Colab e os artigos dos mesmos na minha conta pessoal do Medium.
 
 ## Portifólio
 
